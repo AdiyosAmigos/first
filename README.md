@@ -1,0 +1,2 @@
+# first
+shart-operatori
